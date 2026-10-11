@@ -1,0 +1,83 @@
+[
+  {
+    "id": "car",
+    "bucket": "work",
+    "en": "Work-related car expenses",
+    "zh": "工作车辆费用",
+    "exampleEn": "ATO example: Josie’s trips to visit staff are work travel; her trip to head office is commuting.",
+    "exampleZh": "ATO 示例：Josie 探访员工的行程属于工作出行；前往总部的行程属于通勤。",
+    "url": "https://www.ato.gov.au/api/public/content/0-5d713dbd-1220-4dba-99a0-08fd8ea814d8"
+  },
+  {
+    "id": "travel",
+    "bucket": "work",
+    "en": "Work-related travel",
+    "zh": "工作出行费用",
+    "exampleEn": "ATO guidance: eligible overnight work travel can include accommodation and meals.",
+    "exampleZh": "ATO 说明举例：符合条件的过夜工作出差可包含住宿和餐饮。",
+    "url": "https://www.ato.gov.au/law/view/document?DocNum=0215000005&FullDocument=true"
+  },
+  {
+    "id": "clothing",
+    "bucket": "work",
+    "en": "Uniforms & laundry",
+    "zh": "制服与洗衣",
+    "exampleEn": "ATO example: ordinary black trousers and office business clothes are not deductible just because they are worn at work.",
+    "exampleZh": "ATO 举例：普通黑色长裤及办公室商务服装，不会仅因工作穿着而可扣除。",
+    "url": "https://www.ato.gov.au/api/public/content/0-06cee1ff-7362-4631-9eb7-31f952d096ed"
+  },
+  {
+    "id": "education",
+    "bucket": "work",
+    "en": "Self-education",
+    "zh": "自我教育",
+    "exampleEn": "ATO example: Ranita’s course qualifies because it increases income from her current employment.",
+    "exampleZh": "ATO 示例：Ranita 的课程提升当前工作的收入，因此符合相关扣除条件。",
+    "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/deductions-you-can-claim/education-training-and-seminars/self-education-expenses"
+  },
+  {
+    "id": "wfh",
+    "bucket": "work",
+    "en": "Working from home",
+    "zh": "居家办公",
+    "exampleEn": "ATO guidance: fixed-rate costs include phone, internet and stationery; do not claim the same costs again.",
+    "exampleZh": "ATO 说明举例：固定费率已涵盖电话、网络和文具等费用，不要重复申报。",
+    "url": "https://www.ato.gov.au/api/public/content/7a6706d5-2502-46ce-981a-0dac1cee1cab_Taxtimetoolkit_Workingfromhomededuction_pdf"
+  },
+  {
+    "id": "otherWork",
+    "bucket": "work",
+    "en": "Other work expenses",
+    "zh": "其他工作费用",
+    "exampleEn": "ATO examples include eligible union fees and professional subscriptions.",
+    "exampleZh": "ATO 举例包括符合条件的工会费和专业订阅。",
+    "url": "https://www.ato.gov.au/api/public/content/0-92ab67f8-5019-4d4e-90c2-0e2ce169d490"
+  },
+  {
+    "id": "donations",
+    "bucket": "donations",
+    "en": "Gifts & donations",
+    "zh": "捐赠",
+    "exampleEn": "ATO examples: eligible DGR gifts differ from raffle tickets or fundraising purchases, which provide a benefit.",
+    "exampleZh": "ATO 举例：符合条件的 DGR 捐赠与抽奖券、筹款商品不同；后者获得了回报。",
+    "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2024/deductions/deductions-for-donations-investments-and-managing-your-tax-affairs/gifts-or-donations"
+  },
+  {
+    "id": "taxAffairs",
+    "bucket": "taxAffairs",
+    "en": "Managing tax affairs",
+    "zh": "税务管理费用",
+    "exampleEn": "ATO examples include fees for a recognised tax adviser; only enter the eligible tax-related amount.",
+    "exampleZh": "ATO 举例包括认可税务顾问费用；仅录入符合条件的税务相关金额。",
+    "url": "https://www.ato.gov.au/myTax25CostOfManagingTaxAffairs"
+  },
+  {
+    "id": "other",
+    "bucket": "otherDeductions",
+    "en": "Other eligible deductions",
+    "zh": "其他合资格扣除",
+    "exampleEn": "Check the ATO deduction guide. Exclude amounts already entered elsewhere and employer reimbursements.",
+    "exampleZh": "请核对 ATO 扣除指南，不要重复录入其他设置已包含的金额或雇主报销。",
+    "url": "https://www.ato.gov.au/myTax25Deductions"
+  }
+]
