@@ -2,3 +2,5 @@
 @media(max-width:700px){.salary-layout{display:flex;flex-direction:column}.salary-layout>.stack{display:contents}.salary-layout .card{width:100%;order:3}.salary-layout .input-card{order:1}.salary-layout #salary-result{order:2}}
 .brand .mark{display:block;width:38px;height:38px;flex-shrink:0;}@media(max-width:700px){.brand .mark{width:30px;height:30px}}
 @media(max-width:700px){.work-layout{display:flex;flex-direction:column}.work-layout>.stack{display:contents}.work-layout .card{width:100%;order:5}.work-layout .work-input{order:1}.work-layout #work-result{order:2}.work-layout #today-card{order:3}.work-layout .card:has(#period-summary){order:4}}
+
+@media(max-width:700px){.work-layout .effort-plan{order:2}.work-layout #work-result{order:3}.work-layout #today-card{order:4}.work-layout .card:has(#period-summary){order:5}}
