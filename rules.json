@@ -1,0 +1,303 @@
+[
+  {
+    "bands" : [
+      {
+        "lower" : 0,
+        "rate" : 0,
+        "upper" : 18200
+      },
+      {
+        "lower" : 18200,
+        "rate" : 0.19,
+        "upper" : 45000
+      },
+      {
+        "lower" : 45000,
+        "rate" : 0.32500000000000001,
+        "upper" : 120000
+      },
+      {
+        "lower" : 120000,
+        "rate" : 0.37,
+        "upper" : 180000
+      },
+      {
+        "lower" : 180000,
+        "rate" : 0.45000000000000001,
+        "upper" : 1000000000000000
+      }
+    ],
+    "cap" : 249080,
+    "childIncrement" : 4027,
+    "days" : 366,
+    "familyThreshold" : 43846,
+    "helpSecond" : 129717,
+    "helpThreshold" : 51550,
+    "levyLower" : 26000,
+    "mls" : [
+      93000,
+      108000,
+      144000
+    ],
+    "sg" : 11,
+    "year" : 2023
+  },
+  {
+    "bands" : [
+      {
+        "lower" : 0,
+        "rate" : 0,
+        "upper" : 18200
+      },
+      {
+        "lower" : 18200,
+        "rate" : 0.16,
+        "upper" : 45000
+      },
+      {
+        "lower" : 45000,
+        "rate" : 0.29999999999999999,
+        "upper" : 135000
+      },
+      {
+        "lower" : 135000,
+        "rate" : 0.37,
+        "upper" : 190000
+      },
+      {
+        "lower" : 190000,
+        "rate" : 0.45000000000000001,
+        "upper" : 1000000000000000
+      }
+    ],
+    "cap" : 260280,
+    "childIncrement" : 4216,
+    "days" : 365,
+    "familyThreshold" : 45907,
+    "helpSecond" : 129717,
+    "helpThreshold" : 54435,
+    "levyLower" : 27222,
+    "mls" : [
+      97000,
+      113000,
+      151000
+    ],
+    "sg" : 11.5,
+    "year" : 2024
+  },
+  {
+    "bands" : [
+      {
+        "lower" : 0,
+        "rate" : 0,
+        "upper" : 18200
+      },
+      {
+        "lower" : 18200,
+        "rate" : 0.16,
+        "upper" : 45000
+      },
+      {
+        "lower" : 45000,
+        "rate" : 0.29999999999999999,
+        "upper" : 135000
+      },
+      {
+        "lower" : 135000,
+        "rate" : 0.37,
+        "upper" : 190000
+      },
+      {
+        "lower" : 190000,
+        "rate" : 0.45000000000000001,
+        "upper" : 1000000000000000
+      }
+    ],
+    "cap" : 250000,
+    "childIncrement" : 4338,
+    "days" : 365,
+    "familyThreshold" : 47238,
+    "helpSecond" : 125000,
+    "helpThreshold" : 67000,
+    "levyLower" : 28011,
+    "mls" : [
+      101000,
+      118000,
+      158000
+    ],
+    "sg" : 12,
+    "year" : 2025
+  },
+  {
+    "bands" : [
+      {
+        "lower" : 0,
+        "rate" : 0,
+        "upper" : 18200
+      },
+      {
+        "lower" : 18200,
+        "rate" : 0.14999999999999999,
+        "upper" : 45000
+      },
+      {
+        "lower" : 45000,
+        "rate" : 0.29999999999999999,
+        "upper" : 135000
+      },
+      {
+        "lower" : 135000,
+        "rate" : 0.37,
+        "upper" : 190000
+      },
+      {
+        "lower" : 190000,
+        "rate" : 0.45000000000000001,
+        "upper" : 1000000000000000
+      }
+    ],
+    "cap" : 270830,
+    "childIncrement" : 4338,
+    "days" : 365,
+    "familyThreshold" : 47238,
+    "helpSecond" : 129717,
+    "helpThreshold" : 69528,
+    "levyLower" : 28011,
+    "mls" : [
+      105000,
+      123000,
+      164000
+    ],
+    "sg" : 12,
+    "year" : 2026
+  },
+  {
+    "bands" : [
+      {
+        "lower" : 0,
+        "rate" : 0,
+        "upper" : 18200
+      },
+      {
+        "lower" : 18200,
+        "rate" : 0.14000000000000001,
+        "upper" : 45000
+      },
+      {
+        "lower" : 45000,
+        "rate" : 0.29999999999999999,
+        "upper" : 135000
+      },
+      {
+        "lower" : 135000,
+        "rate" : 0.37,
+        "upper" : 190000
+      },
+      {
+        "lower" : 190000,
+        "rate" : 0.45000000000000001,
+        "upper" : 1000000000000000
+      }
+    ],
+    "cap" : 270830,
+    "childIncrement" : 4338,
+    "days" : 366,
+    "familyThreshold" : 47238,
+    "helpSecond" : 129717,
+    "helpThreshold" : 69528,
+    "levyLower" : 28011,
+    "mls" : [
+      105000,
+      123000,
+      164000
+    ],
+    "sg" : 12,
+    "year" : 2027
+  },
+  {
+    "bands" : [
+      {
+        "lower" : 0,
+        "rate" : 0,
+        "upper" : 18200
+      },
+      {
+        "lower" : 18200,
+        "rate" : 0.14000000000000001,
+        "upper" : 45000
+      },
+      {
+        "lower" : 45000,
+        "rate" : 0.29999999999999999,
+        "upper" : 135000
+      },
+      {
+        "lower" : 135000,
+        "rate" : 0.37,
+        "upper" : 190000
+      },
+      {
+        "lower" : 190000,
+        "rate" : 0.45000000000000001,
+        "upper" : 1000000000000000
+      }
+    ],
+    "cap" : 270830,
+    "childIncrement" : 4338,
+    "days" : 365,
+    "familyThreshold" : 47238,
+    "helpSecond" : 129717,
+    "helpThreshold" : 69528,
+    "levyLower" : 28011,
+    "mls" : [
+      105000,
+      123000,
+      164000
+    ],
+    "sg" : 12,
+    "year" : 2028
+  },
+  {
+    "bands" : [
+      {
+        "lower" : 0,
+        "rate" : 0,
+        "upper" : 18200
+      },
+      {
+        "lower" : 18200,
+        "rate" : 0.14000000000000001,
+        "upper" : 45000
+      },
+      {
+        "lower" : 45000,
+        "rate" : 0.29999999999999999,
+        "upper" : 135000
+      },
+      {
+        "lower" : 135000,
+        "rate" : 0.37,
+        "upper" : 190000
+      },
+      {
+        "lower" : 190000,
+        "rate" : 0.45000000000000001,
+        "upper" : 1000000000000000
+      }
+    ],
+    "cap" : 270830,
+    "childIncrement" : 4338,
+    "days" : 365,
+    "familyThreshold" : 47238,
+    "helpSecond" : 129717,
+    "helpThreshold" : 69528,
+    "levyLower" : 28011,
+    "mls" : [
+      105000,
+      123000,
+      164000
+    ],
+    "sg" : 12,
+    "year" : 2029
+  }
+]
