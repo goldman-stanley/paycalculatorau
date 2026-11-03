@@ -1,4 +1,4 @@
-# PayCalculator AU — Web Beta v1.3
+# PayCalculator AU — Web Beta v1.3.2
 
 Live test calculator: https://goldman-stanley.github.io/paycalculatorau/
 
