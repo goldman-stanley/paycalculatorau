@@ -17,3 +17,6 @@
 
 /* Narrow phone windows, including compact foldable display states. */
 @media(max-width:360px){header{padding:12px;gap:4px}.brand{font-size:12px;gap:4px}.brand .mark{width:24px;height:24px}.tools{gap:0;padding:2px}.tools button{min-width:30px;padding:6px;font-size:12px}.tools #theme-open{font-size:12px}main{padding-left:12px;padding-right:12px}.card{padding:16px}.beta-install{padding:14px}.beta-install-button{white-space:normal;text-align:center}}
+
+@media(max-width:899px){.work-layout .work-forecast{grid-row:1}.work-layout .work-plan{grid-row:2}}
+[hidden]{display:none!important}

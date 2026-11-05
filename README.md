@@ -1,4 +1,4 @@
-# PayCalculator AU — Web Beta v1.3.2
+# PayCalculator AU — Web Beta v1.4 Beta
 
 Live test calculator: https://goldman-stanley.github.io/paycalculatorau/
 
@@ -21,3 +21,6 @@ Support / privacy: https://goldman-stanley.github.io/paycalculator-au-pages/#sup
 Feedback: https://github.com/goldman-stanley/paycalculator-au-pages/issues/new/choose
 
 Public holidays retain attribution in `holidays.json`, also available from the holiday browser. Theme names reflect brand inspiration only; no affiliation or endorsement.
+
+
+1.4 Beta unifies payslip and annual comparison views, separates annual Work Value forecasts from recorded days, and lets temporary chart edits be saved as scenarios. iOS distribution is TestFlight only; this beta is not submitted to the App Store.
